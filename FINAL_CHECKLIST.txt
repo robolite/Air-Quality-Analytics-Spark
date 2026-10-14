@@ -1,0 +1,9 @@
+FINAL CHECKLIST — BEFORE SUBMISSION
+[ ] Download AirQualityUCI.csv from the official UCI dataset page and put it in data/
+[ ] Install dependencies and run python run_analysis.py
+[ ] Confirm outputs/ contains CSVs, PNG charts, and run_summary.txt
+[ ] Inspect the charts and copy actual findings into report section 7
+[ ] Insert chart images and a successful run screenshot into the presentation
+[ ] Replace [Name and Roll Number] placeholders
+[ ] Submit source code, dataset or dataset link, report, and presentation
+[ ] Confirm late-submission permission with Dr. Mamta Arora
